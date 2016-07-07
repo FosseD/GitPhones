@@ -11,6 +11,7 @@ namespace GitPhoneApp
         static void Main(string[] args)
         {
             Console.WriteLine("Commit!");
+            Console.WriteLine("Making a change");
         }
     }
 }
