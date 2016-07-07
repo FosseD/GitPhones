@@ -16,7 +16,7 @@ namespace GitPhoneApp
             string name = Console.ReadLine();
             if (name == "Dennis")
             {
-                // En liten kommentar
+                // En liten ändring
                 Console.WriteLine("Äru go eller?");
             }
             else
