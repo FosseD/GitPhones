@@ -10,6 +10,7 @@ namespace GitPhoneApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Commit!");
         }
     }
 }
