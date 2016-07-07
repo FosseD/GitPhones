@@ -12,6 +12,16 @@ namespace GitPhoneApp
         {
             Console.WriteLine("Commit!");
             Console.WriteLine("Making a change");
+            Console.WriteLine("Ange ett namn:");
+            string name = Console.ReadLine();
+            if (name == "Dennis")
+            {
+                Console.WriteLine("Äru go eller?");
+            }
+            else
+            {
+                Console.WriteLine("Hallå eller");
+            }
         }
     }
 }
